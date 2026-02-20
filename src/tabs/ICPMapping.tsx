@@ -3,7 +3,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/Card';
 export default function ICPMapping() {
   return (
     <div className="space-y-12 text-blue-900">
-      <h2 className="text-3xl font-bold tracking-tight font-serif mb-4">🔵 TAB 3: Detailed ICP Mapping & User Journey</h2>
+      <h2 className="text-3xl font-bold tracking-tight font-serif mb-4">Detailed ICP Mapping & User Journey</h2>
 
       <section id="b2b-icp">
         <h3 className="text-2xl font-semibold mb-4">3.1 B2B ICP – Ideal Company Profile</h3>

@@ -12,7 +12,7 @@ export default function IndustryAnalysis() {
   return (
     <div className="space-y-12 text-blue-900">
       <section id="dei-hiring-space">
-        <h2 className="text-3xl font-bold tracking-tight font-serif mb-4">🔵 TAB 2: Industry Analysis – Diversity & Inclusion Job Portals in India</h2>
+        <h2 className="text-3xl font-bold tracking-tight font-serif mb-4">Industry Analysis – Diversity & Inclusion Job Portals in India</h2>
         <p>India’s DEI hiring space is still emerging but accelerating due to: ESG compliance pressure, global reporting standards, enterprise diversity mandates, and startup culture evolution.</p>
       </section>
 
